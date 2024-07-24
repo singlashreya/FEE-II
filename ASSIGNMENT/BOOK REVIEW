@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Review Blog</title>
+</head>
+<body>
+    <header>
+        <h1>Book Review Blog</h1>
+    </header>
+    <div class="container">
+        <div class="post">
+            <img src="the girl on the train.jpg" alt="" height="150" width="100">
+            <h2>The Girl on The train</h2>
+            <p><strong>Author:</strong> Paula Hawkins</p>
+            <p><strong>Review:</strong> Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. “Jess and Jason,” she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train.</p>
+        </div>
+        <div class="post">
+            <img src="harry potter.png" alt="" height="150" width="100">
+            <h2>Harry Potter and the Goblet of fire</h2>
+            <p><strong>Author:</strong> J.K Rowling</p>
+            <p><strong>Review:</strong> Harry Potter and the Goblet of Fire is a fantasy novel written by British author J. K. Rowling and the fourth novel in the Harry Potter series</p>
+        </div>
+        <div class="post">
+            <img src="the good soldier.png" alt="" height="150" width="100">
+            <h2>The Good Soldier</h2>
+            <p><strong>Author:</strong> Ford Madox</p>
+            <p><strong>Review:</strong> The Good Soldier: A Tale of Passion is a 1915 novel by the British writer Ford Madox Ford. It is set just before World War I, and chronicles the tragedy of Edward Ashburnham and his seemingly perfect marriage, along with that of his two American friends.</p>
+        </div>
+    </div>
+</body>
+</html>
